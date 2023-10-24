@@ -1,0 +1,9 @@
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\bin\Debug\hafta6_for_dongusu_2.exe.config
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\bin\Debug\hafta6_for_dongusu_2.exe
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\bin\Debug\hafta6_for_dongusu_2.pdb
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\obj\Debug\hafta6_for_dongusu_2.Form1.resources
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\obj\Debug\hafta6_for_dongusu_2.Properties.Resources.resources
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\obj\Debug\hafta6_for_dongusu_2.csproj.GenerateResource.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\obj\Debug\hafta6_for_dongusu_2.csproj.CoreCompileInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\obj\Debug\hafta6_for_dongusu_2.exe
+C:\Users\ayhanakkaya_master\source\repos\hafta6_for_dongusu_2\hafta6_for_dongusu_2\obj\Debug\hafta6_for_dongusu_2.pdb

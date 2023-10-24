@@ -1,0 +1,10 @@
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\bin\Debug\hafta6_donguler_sayac.exe.config
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\bin\Debug\hafta6_donguler_sayac.exe
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\bin\Debug\hafta6_donguler_sayac.pdb
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.csproj.AssemblyReference.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.Form1.resources
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.Properties.Resources.resources
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.csproj.GenerateResource.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.csproj.CoreCompileInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.exe
+C:\Users\ayhanakkaya_master\source\repos\hafta6_donguler_sayac\hafta6_donguler_sayac\obj\Debug\hafta6_donguler_sayac.pdb

@@ -1,0 +1,10 @@
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\bin\Debug\hafta6_while_dongusu_1.exe.config
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\bin\Debug\hafta6_while_dongusu_1.exe
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\bin\Debug\hafta6_while_dongusu_1.pdb
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.csproj.AssemblyReference.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.Form1.resources
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.Properties.Resources.resources
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.csproj.GenerateResource.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.csproj.CoreCompileInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.exe
+C:\Users\ayhanakkaya_master\source\repos\hafta6_while_dongusu_1\hafta6_while_dongusu_1\obj\Debug\hafta6_while_dongusu_1.pdb

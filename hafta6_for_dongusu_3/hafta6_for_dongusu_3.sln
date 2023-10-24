@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta6_for_dongusu_3", "hafta6_for_dongusu_3\hafta6_for_dongusu_3.csproj", "{AA58264C-65C0-4DCD-9D00-F2D6E65B2763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA58264C-65C0-4DCD-9D00-F2D6E65B2763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA58264C-65C0-4DCD-9D00-F2D6E65B2763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA58264C-65C0-4DCD-9D00-F2D6E65B2763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA58264C-65C0-4DCD-9D00-F2D6E65B2763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E309C16D-C8E1-4B52-B908-EA19394C85B0}
+	EndGlobalSection
+EndGlobal
