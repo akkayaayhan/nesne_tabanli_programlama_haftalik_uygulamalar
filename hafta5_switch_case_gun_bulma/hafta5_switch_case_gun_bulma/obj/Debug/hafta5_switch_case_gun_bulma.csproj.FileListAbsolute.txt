@@ -1,0 +1,10 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\bin\Debug\hafta5_switch_case_gun_bulma.exe.config
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\bin\Debug\hafta5_switch_case_gun_bulma.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\bin\Debug\hafta5_switch_case_gun_bulma.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.Form1.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.Properties.Resources.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.csproj.GenerateResource.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_gun_bulma\hafta5_switch_case_gun_bulma\obj\Debug\hafta5_switch_case_gun_bulma.pdb

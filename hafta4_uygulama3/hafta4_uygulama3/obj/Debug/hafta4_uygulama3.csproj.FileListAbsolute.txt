@@ -1,0 +1,10 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\bin\Debug\hafta4_uygulama3.exe.config
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\bin\Debug\hafta4_uygulama3.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\bin\Debug\hafta4_uygulama3.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.Form1.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.Properties.Resources.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.csproj.GenerateResource.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta4_uygulama3\hafta4_uygulama3\obj\Debug\hafta4_uygulama3.pdb

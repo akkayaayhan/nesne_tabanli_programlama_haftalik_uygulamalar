@@ -1,0 +1,10 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\bin\Debug\hafta5_switch_case_takim.exe.config
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\bin\Debug\hafta5_switch_case_takim.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\bin\Debug\hafta5_switch_case_takim.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.Form1.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.Properties.Resources.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.csproj.GenerateResource.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_switch_case_takim\hafta5_switch_case_takim\obj\Debug\hafta5_switch_case_takim.pdb

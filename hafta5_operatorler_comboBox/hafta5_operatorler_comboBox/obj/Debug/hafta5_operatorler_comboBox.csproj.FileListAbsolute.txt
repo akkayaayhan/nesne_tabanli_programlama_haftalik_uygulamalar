@@ -1,0 +1,10 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\bin\Debug\hafta5_operatorler_comboBox.exe.config
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\bin\Debug\hafta5_operatorler_comboBox.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\bin\Debug\hafta5_operatorler_comboBox.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.Form1.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.Properties.Resources.resources
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.csproj.GenerateResource.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\hafta5_operatorler_comboBox\hafta5_operatorler_comboBox\obj\Debug\hafta5_operatorler_comboBox.pdb
