@@ -1,0 +1,67 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ayhanakkaya_master\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\gap_mtal\\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\\Nesne_Tabanli_Programlama_Dersi\\uygulamalar\\Hafta9_NTP_Ogrenci\\Hafta9_NTP_Ogrenci\\Hafta9_NTP_Ogrenci.csproj",
+      "projectName": "Hafta9_NTP_Ogrenci",
+      "projectPath": "D:\\gap_mtal\\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\\Nesne_Tabanli_Programlama_Dersi\\uygulamalar\\Hafta9_NTP_Ogrenci\\Hafta9_NTP_Ogrenci\\Hafta9_NTP_Ogrenci.csproj",
+      "packagesPath": "C:\\Users\\ayhanakkaya_master\\.nuget\\packages\\",
+      "outputPath": "D:\\gap_mtal\\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\\Nesne_Tabanli_Programlama_Dersi\\uygulamalar\\Hafta9_NTP_Ogrenci\\Hafta9_NTP_Ogrenci\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ayhanakkaya_master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

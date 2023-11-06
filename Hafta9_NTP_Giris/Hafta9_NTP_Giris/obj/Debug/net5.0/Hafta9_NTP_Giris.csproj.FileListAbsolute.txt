@@ -1,0 +1,16 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\Hafta9_NTP_Giris.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\Hafta9_NTP_Giris.deps.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\Hafta9_NTP_Giris.runtimeconfig.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\Hafta9_NTP_Giris.runtimeconfig.dev.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\Hafta9_NTP_Giris.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\ref\Hafta9_NTP_Giris.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\bin\Debug\net5.0\Hafta9_NTP_Giris.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.GeneratedMSBuildEditorConfig.editorconfig
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.AssemblyInfoInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.AssemblyInfo.cs
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\ref\Hafta9_NTP_Giris.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Giris\Hafta9_NTP_Giris\obj\Debug\net5.0\Hafta9_NTP_Giris.genruntimeconfig.cache

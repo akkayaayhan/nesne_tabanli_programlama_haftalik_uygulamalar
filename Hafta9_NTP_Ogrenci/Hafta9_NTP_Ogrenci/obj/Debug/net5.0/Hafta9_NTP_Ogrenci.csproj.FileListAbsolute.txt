@@ -1,0 +1,16 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\Hafta9_NTP_Ogrenci.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\Hafta9_NTP_Ogrenci.deps.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\Hafta9_NTP_Ogrenci.runtimeconfig.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\Hafta9_NTP_Ogrenci.runtimeconfig.dev.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\Hafta9_NTP_Ogrenci.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\ref\Hafta9_NTP_Ogrenci.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\bin\Debug\net5.0\Hafta9_NTP_Ogrenci.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.GeneratedMSBuildEditorConfig.editorconfig
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.AssemblyInfoInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.AssemblyInfo.cs
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\ref\Hafta9_NTP_Ogrenci.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta9_NTP_Ogrenci\Hafta9_NTP_Ogrenci\obj\Debug\net5.0\Hafta9_NTP_Ogrenci.genruntimeconfig.cache
