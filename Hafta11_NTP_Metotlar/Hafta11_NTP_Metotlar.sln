@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta11_NTP_Metotlar", "Hafta11_NTP_Metotlar\Hafta11_NTP_Metotlar.csproj", "{4C54D74C-5135-4F04-AD77-CFB50753902D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C54D74C-5135-4F04-AD77-CFB50753902D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C54D74C-5135-4F04-AD77-CFB50753902D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C54D74C-5135-4F04-AD77-CFB50753902D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C54D74C-5135-4F04-AD77-CFB50753902D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B291B3-1F29-482F-9896-DFF399E3FB95}
+	EndGlobalSection
+EndGlobal
