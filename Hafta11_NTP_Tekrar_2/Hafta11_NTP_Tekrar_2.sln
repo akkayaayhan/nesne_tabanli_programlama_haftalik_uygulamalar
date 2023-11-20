@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hafta11_NTP_Tekrar_2", "Hafta11_NTP_Tekrar_2\Hafta11_NTP_Tekrar_2.csproj", "{797CAE0C-2835-48B3-87E5-AE7BD32D43E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797CAE0C-2835-48B3-87E5-AE7BD32D43E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797CAE0C-2835-48B3-87E5-AE7BD32D43E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797CAE0C-2835-48B3-87E5-AE7BD32D43E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797CAE0C-2835-48B3-87E5-AE7BD32D43E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF4AF25F-75D3-4595-8FBD-DCC11048933C}
+	EndGlobalSection
+EndGlobal
