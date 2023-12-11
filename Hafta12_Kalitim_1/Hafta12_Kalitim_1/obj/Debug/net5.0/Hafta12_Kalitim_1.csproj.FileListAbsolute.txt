@@ -1,0 +1,16 @@
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\Hafta12_Kalitim_1.exe
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\Hafta12_Kalitim_1.deps.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\Hafta12_Kalitim_1.runtimeconfig.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\Hafta12_Kalitim_1.runtimeconfig.dev.json
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\Hafta12_Kalitim_1.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\ref\Hafta12_Kalitim_1.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\bin\Debug\net5.0\Hafta12_Kalitim_1.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.csproj.AssemblyReference.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.AssemblyInfoInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.AssemblyInfo.cs
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.csproj.CoreCompileInputs.cache
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\ref\Hafta12_Kalitim_1.dll
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.pdb
+D:\gap_mtal\2023-2024-GAP-MESLEK--VE-TEKNIK-ANADOLU-LISESI\Nesne_Tabanli_Programlama_Dersi\uygulamalar\Hafta12_Kalitim_1\Hafta12_Kalitim_1\obj\Debug\net5.0\Hafta12_Kalitim_1.genruntimeconfig.cache

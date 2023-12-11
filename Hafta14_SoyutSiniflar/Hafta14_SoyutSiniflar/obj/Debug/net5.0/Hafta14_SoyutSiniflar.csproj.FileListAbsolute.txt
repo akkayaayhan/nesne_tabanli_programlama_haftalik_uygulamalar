@@ -1,0 +1,15 @@
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\Hafta14_SoyutSiniflar.exe
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\Hafta14_SoyutSiniflar.deps.json
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\Hafta14_SoyutSiniflar.runtimeconfig.json
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\Hafta14_SoyutSiniflar.runtimeconfig.dev.json
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\Hafta14_SoyutSiniflar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\ref\Hafta14_SoyutSiniflar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\bin\Debug\net5.0\Hafta14_SoyutSiniflar.pdb
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.AssemblyInfoInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.AssemblyInfo.cs
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.csproj.CoreCompileInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\ref\Hafta14_SoyutSiniflar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.pdb
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SoyutSiniflar\Hafta14_SoyutSiniflar\obj\Debug\net5.0\Hafta14_SoyutSiniflar.genruntimeconfig.cache

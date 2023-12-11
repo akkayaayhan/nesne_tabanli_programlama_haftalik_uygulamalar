@@ -1,0 +1,16 @@
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\Hafta14_SanalMetotlar.exe
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\Hafta14_SanalMetotlar.deps.json
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\Hafta14_SanalMetotlar.runtimeconfig.json
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\Hafta14_SanalMetotlar.runtimeconfig.dev.json
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\Hafta14_SanalMetotlar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\ref\Hafta14_SanalMetotlar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\bin\Debug\net5.0\Hafta14_SanalMetotlar.pdb
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.csproj.AssemblyReference.cache
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.AssemblyInfoInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.AssemblyInfo.cs
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\ref\Hafta14_SanalMetotlar.dll
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.pdb
+C:\Users\ayhanakkaya_master\source\repos\Hafta14_SanalMetotlar\Hafta14_SanalMetotlar\obj\Debug\net5.0\Hafta14_SanalMetotlar.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hafta14_SanalMetotlar/1.0.0": {
+        "runtime": {
+          "Hafta14_SanalMetotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hafta14_SanalMetotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
